@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/Simodebla01/2021-23.SA.UFS07/compare/v1.2.3...v2.0.0) (2022-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+
+### Bug Fixes
+
+* aggiornato dominio ([3364966](https://github.com/Simodebla01/2021-23.SA.UFS07/commit/3364966131bd7afbdd8e5495b67bd3918ad1d067))
+
 ### [1.2.3](https://github.com/Simodebla01/2021-23.SA.UFS07/compare/v1.2.2...v1.2.3) (2022-05-10)
 
 ### [1.2.2](https://github.com/Simodebla01/2021-23.SA.UFS07/compare/v1.2.1...v1.2.2) (2022-05-10)
