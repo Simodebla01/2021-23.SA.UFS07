@@ -45,8 +45,10 @@ jobs:
         run: |
           npm install
           PACKAGE_VERSION=`cat package.json | jq -r '.version'`
+          echo $PACKAGE_VERSION
           DESIGN_SYSTEM_VERSION=`cat package.json | jq -r '.dependencies["simone-react"]' | cut -c2-`
           npx -yes chromatic --force-rebuild
+          echo $DESIGN_SYSTEM_VERSION
       - name: Build storybook-static
         working-directory: design-system/react
         run: |
