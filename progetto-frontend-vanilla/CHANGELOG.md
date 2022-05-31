@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.5](https://github.com/Simodebla01/2021-23.SA.UFS07/compare/v1.6.0...v1.5.5) (2022-05-31)
+
+
+### Bug Fixes
+
+* changes ([c95a1bd](https://github.com/Simodebla01/2021-23.SA.UFS07/commit/c95a1bd924e2808133eaa4279933d59c14adde26))
+* echo ([a61e746](https://github.com/Simodebla01/2021-23.SA.UFS07/commit/a61e74674dd71e14544275366275aa824d6072d4))
+
 ## 1.6.0 (2022-05-31)
 
 
