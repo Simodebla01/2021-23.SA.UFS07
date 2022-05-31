@@ -44,6 +44,8 @@ jobs:
           CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
         run: |
           npm install
+          PACKAGE_VERSION=`cat package.json | jq -r '.version'`
+          DESIGN_SYSTEM_VERSION=`cat package.json | jq -r '.dependencies["simone-react"]' | cut -c2-`
           npx -yes chromatic --force-rebuild
       - name: Build storybook-static
         working-directory: design-system/react
