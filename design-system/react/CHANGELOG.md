@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/Simodebla01/2021-23.SA.UFS07/compare/ds1.2.0...ds1.2.1) (2022-05-31)
+
+
+### Bug Fixes
+
+* change echo ([e879241](https://github.com/Simodebla01/2021-23.SA.UFS07/commit/e8792419b5f01a7da36af41ccd55c2b912017eeb))
+
 ## 1.2.0 (2022-05-31)
 
 
